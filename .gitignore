@@ -1,0 +1,18 @@
+# Maven build output
+target/
+
+# Compiled classes and manual build folders
+out/
+*.class
+
+# Generated test data and results from the Challenge
+data/
+data-big/
+result.csv
+
+# IDE and OS files
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
